@@ -15,6 +15,7 @@ Desenvolvedor em formação, construindo sistemas, automações e ferramentas pa
 
 ## 🛠️ Projetos
 
+Projetos públicos em desenvolvimento. Esta seção será atualizada conforme novos projetos forem publicados.
 
 ## 📚 Atualmente aprendendo
 
