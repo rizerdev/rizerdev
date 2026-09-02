@@ -6,7 +6,7 @@ Desenvolvedor em formação, construindo sistemas, automações e ferramentas pa
 
 ## 🚀 Atualmente trabalhando com
 
-- 💻 Sistemas empresariais
+- 🖥️ Sistemas empresariais
 - ⚙️ Automação de processos
 - 🐍 Python
 - 📊 Excel e processamento de dados
@@ -15,4 +15,7 @@ Desenvolvedor em formação, construindo sistemas, automações e ferramentas pa
 
 ## 🛠️ Projetos
 
-Buscando evoluir minhas habilidades em desenvolvimento de software, automação e criação de soluções para problemas reais.
+
+## 📚 Atualmente aprendendo
+
+Continuo evoluindo meus conhecimentos em desenvolvimento de software, automação e criação de soluções para problemas reais.
